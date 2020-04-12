@@ -1,0 +1,38 @@
+designs {body { background-image: url(Backgroundimage.jpg);
+       background-size: cover; }
+h1 {color: white;
+    font-size:5em;
+    text-align: center; }
+p  {color: red;
+    text-align: center;
+    font-size:1.5em;
+    text-shadow: 1px 1.5px 10px  white;}
+.btn-dark {text-shadow: 4px 4px 6px  white;
+        font-family: bold;
+        height: 300%;
+        width:20%; 
+        text-align: center;
+        font-size: 1.5em;}
+.btn-dark:hover { background-color: white;
+                  text-shadow: 5px 5px black;
+                  }
+footer {color: white;
+        font-size: 2em;
+        text-align: center;
+        background-color: black;
+        width: 20%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        }}
+
+codes {<h1>Welcome</h1><br><br><br>
+	<p>Hi, its my first project on air. it probably contains a form type page where u might have to fillup some information. so hopefully putting ur enjoyment aside lets start by clicking GO!<p><br><br><br><br>
+ 
+ <button type="button" class="btn btn-dark">GO!</button><br><br>
+
+ <footer>Go Corona!</footer>}
+
+
+
+

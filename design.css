@@ -1,0 +1,86 @@
+* {color: white;}
+body {background: url(backgroundman.jpg); 
+      background-image: cover;}
+.title {text-align: center;
+        padding-bottom:20px; 
+        padding-top:20px;
+        text-shadow: 2px 4px 4px white; }
+
+.signup {text-align: right;}
+.btn-outline-dark {color: white;
+                   border-color:white;
+                   text-shadow: 2px 4px 4px white;
+                   transition:1.5s;}
+
+.welcome{color:white;
+	     text-shadow: 2px 4px 4px white;
+	     font-family: 'Oswald';
+	     background: url(welcomeback.jpg);
+	     text-align: left;
+         font-size: 20px;
+         border-top:2px solid black;
+         border-left:2px solid black;
+         border-bottom:2px solid grey; 
+         border-right:2px solid grey;
+         transition: 2.5s;}
+.welcome:hover {background: url(welcomehover.jpg);
+                transition: 2.5s;
+                color: black;
+                border-right: 2px solid white;
+                border-bottom: 2px solid white}
+.strengthisbelief{text-align: center;}
+.beliefisstrenght{text-align: center;}
+footer {text-align: center;
+	    color: black;
+	    font-size: 20px;
+	    font-family: italic;
+        background:url(footerback.jpg);
+        border: 4px solid grey;
+        transition-duration: 2s; }
+footer:hover { background: url(footerhover.jpg);
+               color: white;
+               text-shadow: 2px 4px 4px white; }
+.demopic {border:8px solid grey;
+	 text-align: center;
+	 height: 120px;
+     width: 170px;
+     opacity: 0.5;
+     transition: 2.5s;}
+   
+
+.demopic:hover { transition: 2.5s;
+	             opacity: 1;
+                 border:2px;
+                 transform:scale(1.36);
+                 margin: 4px solid black;}
+.niche {height:350px;
+        width: 500px;
+        opacity: 0.15;
+        transition:2.5s;}
+.niche:hover { transform:scale(1.6);
+	            opacity: 0.3;
+	            transition:2.5s; }
+.BIS {font-family: 'pacifico'; 
+      font-size: 30px;
+      text-decoration: underline;}
+.SIB {font-family: 'pacifico';
+      font-size: 30px;
+      text-decoration: underline;}
+.pera1 { color:grey;
+         transition:2.5s;  }
+.pera1:hover {color: white;
+             text-shadow: 2px 4px 4px white;}
+.pera2 { color:grey;
+         transition:2.5s;  }
+.pera2:hover {color: white;
+             text-shadow: 2px 4px 4px white;}
+.pera3 { color:grey;
+         transition:2.5s;  }
+.pera3:hover {color: white;
+             text-shadow: 2px 4px 4px white;}
+.pera4 { color:grey;
+         transition:2.5s;  }
+.pera4:hover {color: white;
+             text-shadow: 2px 4px 4px white;}
+
+ 
